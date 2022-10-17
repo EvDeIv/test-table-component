@@ -1,0 +1,5 @@
+export { default as IconSortAmountUpRegular } from './icon-sort-up.svg'
+export { default as IconSortAmountDownRegular } from './icon-sort-down.svg'
+export { default as IconEditLight } from './icon-edit-light.svg'
+export { default as IconCheckboxChecked } from './icon-checkbox-checked.svg'
+export { default as IconTrash } from './icon-trash.svg'
